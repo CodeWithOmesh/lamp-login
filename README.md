@@ -3,6 +3,7 @@
 A sign-up page lit by a desk lamp you can pull. Drag the cord down and the lamp clicks on with a real electrical hum, the light flickers in, and the form glows to life.
 
 **Live demo:** https://codewithomesh.github.io/lamp-login/
+
 **Watch the video:** https://www.youtube.com/@CodeWithOmesh
 
 ## Features
