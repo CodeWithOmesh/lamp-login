@@ -4,7 +4,7 @@ A sign-up page lit by a desk lamp you can pull. Drag the cord down and the lamp 
 
 **Live demo:** https://codewithomesh.github.io/lamp-login/
 
-**Watch the video:** https://www.youtube.com/@CodeWithOmesh
+**Watch the video:** https://www.youtube.com/shorts/V3qTFQ9rLGs
 
 ## Features
 
