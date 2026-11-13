@@ -40,6 +40,10 @@ A 120 Hz sine wave is the sound of mains electricity (twice the 60 Hz grid). The
 
 The form is a demo: it doesn't send data anywhere. Connect the submit handler to your own backend to use it for real.
 
+## Credits
+
+Idea inspired by a lamp login animation shared on social media. Hum code adapted from the original post.
+
 ---
 
 Made by **Code with Omesh** · Follow for more satisfying things built with code.
